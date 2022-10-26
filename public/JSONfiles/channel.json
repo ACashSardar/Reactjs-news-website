@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "Meredith Deliso",
+    "title": "2 dead after gunman opens fire at Dallas hospital: Officials",
+    "description": "A police officer shot and injured the suspect, the hospital said.",
+    "url": "https://abcnews.go.com/US/dead-gunman-opens-fire-dallas-hospital-officials/story?id=91917260",
+    "urlToImage": "https://s.abcnews.com/images/US/methodist-dallas-medical-center2-01-ht-iwb-221022_1666468025205_hpMain_16x9_992.jpg",
+    "publishedAt": "2022-10-22T22:14:52Z",
+    "content": "Two hospital employees were fatally shot at a Dallas medical center on Saturday, hospital officials said.\r\nA suspect in the deadly shooting was taken into custody after a responding officer shot and … [+1250 chars]"
+    },
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "Youri Benadjaoud, Emma Egan",
+    "title": "Experts warn of severe upcoming flu season as pediatric hospitals already feel the crush",
+    "description": "Pediatric bed capacity in hospitals is the highest it has been in 2 years.",
+    "url": "https://abcnews.go.com/Health/experts-warn-severe-upcoming-flu-season-pediatric-hospitals/story?id=91913732",
+    "urlToImage": "https://s.abcnews.com/images/Health/flu-children-01-gty-iwb-221022_1666455364564_hpMain_16x9_992.jpg",
+    "publishedAt": "2022-10-22T21:05:00Z",
+    "content": "A surge in pediatric patients with respiratory illnesses is overwhelming hospitals across the United States, as experts warn of a potentially severe flu season in the coming months.\r\nPediatric bed ca… [+4439 chars]"
+    },
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "Nadine El-Bawab, Anne Flaherty",
+    "title": "CDC Director Rochelle Walensky tests positive for COVID-19",
+    "description": "Walensky is up to date on her vaccines and is experiencing mild symptoms.",
+    "url": "https://abcnews.go.com/US/cdc-director-rochelle-walensky-tests-positive-covid/story?id=91921153",
+    "urlToImage": "https://s.abcnews.com/images/US/rochelle-walensky-01-gty-iwb-221022_1666470531157_hpMain_16x9_992.jpg",
+    "publishedAt": "2022-10-22T20:44:00Z",
+    "content": "Dr. Rochelle Walensky, the director of the Centers for Disease Control and prevention tested positive for COVID-19 Friday night, the agency announced Saturday.\r\nWalensky is up to date on her vaccines… [+334 chars]"
+    },
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "Nadine El-Bawab",
+    "title": "Small plane crashes into New Hampshire home, killing 2 people on board",
+    "description": "A small plane crashed into a home's garage shortly after takeoff on Friday.",
+    "url": "https://abcnews.go.com/US/small-plane-crashes-hampshire-home-killing-people-board/story?id=91914813",
+    "urlToImage": "https://s.abcnews.com/images/US/plane-crash-keene-01-ht-iwb-221022_1666456667083_hpMain_16x9_992.jpg",
+    "publishedAt": "2022-10-22T20:33:05Z",
+    "content": "A small plane crashed into multifamily residential building in Keene, New Hampshire, on Friday, killing both people on the board and igniting a 3-alarm fire, city officials said Saturday.\r\nNone of th… [+2383 chars]"
+    },
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "The Associated Press",
+    "title": "Man held without bail in 3-day spate of Seattle shootings",
+    "description": "A 31-year-old Seattle man is being held without bail after what police describe as a three-day spate of shootings that left the owner of one business dead, the owner of another in critical condition, and the driver of a car wounded in the leg",
+    "url": "https://abcnews.go.com/US/wireStory/man-held-bail-day-spate-seattle-shootings-91924872",
+    "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+    "publishedAt": "2022-10-22T20:29:00Z",
+    "content": "SEATTLE -- A 31-year-old Seattle man is being held without bail in what police describe as a three-day spate of shootings that left the owner of one business dead, the owner of another in critical co… [+2589 chars]"
+    },
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "Meredith Deliso",
+    "title": "2 arrested in connection with mass shooting at Louisiana frat house",
+    "description": "Eleven people were injured in the shooting, police said.",
+    "url": "https://abcnews.go.com/US/arrested-connection-mass-shooting-louisiana-frat-house/story?id=91918918",
+    "urlToImage": "https://s.abcnews.com/images/US/fraternity-police-01-ht-iwb-221022_1666460496084_hpMain_16x9_992.jpg",
+    "publishedAt": "2022-10-22T18:56:00Z",
+    "content": "Two men are in custody in connection with a mass shooting at a Louisiana fraternity house that left nearly a dozen people injured, police said.\r\nPolice responded to the fraternity house near Southern… [+1567 chars]"
+    },
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "The Associated Press",
+    "title": "Joanna Simon, acclaimed singer, TV correspondent, dies at 85",
+    "description": "Joanna Simon, a mezzo-soprano and one of the three singing Simon sisters, has died",
+    "url": "https://abcnews.go.com/Entertainment/wireStory/joanna-simon-acclaimed-singer-tv-correspondent-dies-85-91917690",
+    "urlToImage": "https://s.abcnews.com/images/Entertainment/WireAP_5285942a68914dcfa8780f08fa9056cc_16x9_992.jpg",
+    "publishedAt": "2022-10-22T17:29:00Z",
+    "content": "NEW YORK -- Joanna Simon, an acclaimed mezzo-soprano, Emmy-winning TV correspondent and one of the three singing Simon sisters who include pop star Carly, has died at age 85.\r\nSimon, the eldest of fo… [+2106 chars]"
+    },
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "DAVE COLLINS Associated Press",
+    "title": "Alex Jones seeks new trial after $1B Sandy Hook verdict",
+    "description": "Conspiracy theorist Alex Jones has asked a Connecticut judge to throw out a nearly $1 billion verdict against him and order a new trial in a lawsuit by Sandy Hook families over Jones' lies that the 2012 Newtown school shooting was a hoax",
+    "url": "https://abcnews.go.com/Entertainment/wireStory/alex-jones-seeks-trial-1b-sandy-hook-verdict-91913337",
+    "urlToImage": "https://s.abcnews.com/images/Entertainment/WireAP_01b975daec1f4101958a81a91fcd4fac_16x9_992.jpg",
+    "publishedAt": "2022-10-22T16:23:06Z",
+    "content": "HARTFORD, Conn. -- Conspiracy theorist Alex Jones has asked a Connecticut judge to throw out a nearly $1 billion verdict against him and order a new trial in a lawsuit by Sandy Hook families, who say… [+3389 chars]"
+    },
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "Karson Yiu",
+    "title": "How China’s Xi Jinping flipped the script on the world during his 10 years in power",
+    "description": "“The world has entered a new period of turbulence and change,” Xi has warned.",
+    "url": "https://abcnews.go.com/International/chinas-xi-jinping-flipped-script-world-10-years/story?id=91858424",
+    "urlToImage": "https://s.abcnews.com/images/International/xi-jinping-congress-2-ap-ps-221021_1666363619474_hpMain_16x9_992.jpg",
+    "publishedAt": "2022-10-22T12:20:06Z",
+    "content": "Xi Jinping will stroll across the red-carpeted dais inside Beijings gargantuan Great Hall of the People on Sunday, having firmly secured a norm-busting third term as leader of the Chinese Communist P… [+7947 chars]"
+    },
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "Katie Kindelan",
+    "title": "Why are pediatric hospitals filling to capacity?",
+    "description": "Hospitals across the U.S. say they are overwhelmed with pediatric patients.",
+    "url": "https://abcnews.go.com/GMA/Wellness/rsv-main-viruses-causing-pediatric-hospitals-fill-capacity/story?id=91803491",
+    "urlToImage": "https://s.abcnews.com/images/GMA/gma-hospital-ht-kk-221021_1666363492493_hpMain_16x9_992.jpg",
+    "publishedAt": "2022-10-21T15:42:00Z",
+    "content": "Many pediatric hospitals across the country are experiencing a surge in patients, and one of the main reasons, experts say, is an increase in cases of the respiratory virus known as RSV.\r\nRSV, or res… [+5151 chars]"
+    }
+    ]
+    }

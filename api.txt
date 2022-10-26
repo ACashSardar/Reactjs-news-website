@@ -1,0 +1,9 @@
+https://newsapi.org/v2/top-headlines?country=in&category=general&apiKey=97b67ff1d2fb4d7794e9e4c77ff87876
+
+https://newsapi.org/v2/everything?q=${keyword}&apiKey=97b67ff1d2fb4d7794e9e4c77ff87876
+
+https://newsapi.org/v2/top-headlines?sources=${channel}&apiKey=97b67ff1d2fb4d7794e9e4c77ff87876
+
+https://nominatim.openstreetmap.org/search/kolkata?format=json&addressdetails=1&limit=1&polygon_svg=1&email=akashsardar383@gmail.com
+
+api.openweathermap.org/data/2.5/onecall?lat=${lat}&lon=${long}&exclude=current,minutely,hourly&appid=7f7fb990c0d07404f86fb5f5a6922579
